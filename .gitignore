@@ -1,0 +1,6 @@
+\.*.cfg
+*.wp?
+buildout.cfg
+bin
+parts
+etc

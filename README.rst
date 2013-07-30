@@ -39,7 +39,7 @@ To this::
 
 
 Author
-======
+------
 
 Lennart Regebro <regebro@gmail.com>
 
